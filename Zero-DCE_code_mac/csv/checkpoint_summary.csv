@@ -1,0 +1,5 @@
+model,dark_region_mean_brightness,highlight_region_mean_change,global_mean_brightness
+baseline,0.2352,0.0813,0.4323
+ep7,0.233,0.0762,0.4283
+ep8,0.3023,0.0971,0.4833
+ep9,0.3186,0.1103,0.5007
